@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "url": "http://[fd8b:4f84:7d32:99::2]:18792/spaces/v2/carnival-casino-cruise-finder/",
+  "duration_ms": 33507,
+  "output_dir": "/home/hatch/workspace/ts-spaces/carnival-casino-cruise-finder/audits/2026-05-27T01-48-46Z-600111050",
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "height": 900,
+      "screenshot_path": "/home/hatch/workspace/ts-spaces/carnival-casino-cruise-finder/audits/2026-05-27T01-48-46Z-600111050/screenshot.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "screenshot_path": "/home/hatch/workspace/ts-spaces/carnival-casino-cruise-finder/audits/2026-05-27T01-48-46Z-600111050/screenshot-mobile.png"
+    }
+  },
+  "images": {
+    "total": 0,
+    "broken": [],
+    "duplicate": [],
+    "sample_urls": []
+  },
+  "text_issues": [],
+  "console_errors": [
+    "console.error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "console.error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "blocked_requests": []
+}

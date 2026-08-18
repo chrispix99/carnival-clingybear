@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "url": "http://127.0.0.1:35487/spaces/v2/carnival-casino-cruise-finder/",
+  "duration_ms": 3925,
+  "output_dir": "/home/hatch/workspace/ts-spaces/carnival-casino-cruise-finder/audits/2026-05-27T15-37-05Z-514831303",
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "height": 900,
+      "screenshot_path": "/home/hatch/workspace/ts-spaces/carnival-casino-cruise-finder/audits/2026-05-27T15-37-05Z-514831303/screenshot.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "screenshot_path": "/home/hatch/workspace/ts-spaces/carnival-casino-cruise-finder/audits/2026-05-27T15-37-05Z-514831303/screenshot-mobile.png"
+    }
+  },
+  "images": {
+    "total": 0,
+    "broken": [],
+    "duplicate": [],
+    "sample_urls": []
+  },
+  "text_issues": [],
+  "console_errors": [
+    "console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+    "console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+    "console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+    "console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "blocked_requests": []
+}

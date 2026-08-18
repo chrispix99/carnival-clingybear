@@ -1,0 +1,15 @@
+{
+    "entry": "client/dist/index.html",
+    "managedCronJobs": [
+        {
+            "fileName": "carnival-casino-cruise-finder-refresh__interval@6h.md",
+            "jobId": "carnival-casino-cruise-finder-refresh",
+            "purpose": "populate-app-db"
+        }
+    ],
+    "name": "Carnival Casino Cruise Finder",
+    "platformVersion": 7,
+    "runtime": "typescript",
+    "slug": "carnival-casino-cruise-finder",
+    "updated_at": "2026-05-26T19:10:00Z"
+}
