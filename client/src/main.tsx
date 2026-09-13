@@ -4,7 +4,10 @@ import { spaceQueryClient } from "@hatch/space-sdk/client";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { App } from "./App";
 import { PasswordGate } from "./PasswordGate";
+import { initAnalytics } from "./analytics";
 import "./theme.css";
+
+initAnalytics();
 
 const rootEl = document.querySelector<HTMLElement>("[data-generated-space-root]");
 if (!rootEl) {
